@@ -1,5 +1,4 @@
 # Breakout-8
-## Group memebers : Joe Wanjema, Susan Wanjiru, Yussuf Abdirizak and Clinton MWangi 
 
 ## Question 1 :
 Create a function that gives a personalized greeting. This function takes two parameters: name and owner.
